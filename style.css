@@ -1,0 +1,144 @@
+body {         
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    gap: 25px;    
+}
+
+header {
+    padding-top: 25px;
+}
+
+header img {
+    width: 93px;
+    height: auto;     
+}
+
+nav {
+    width: 100vw;
+    height: 75px;
+    background-color: #96E2DC;
+    box-shadow: 0 0 1em #24847C; 
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.menu li a {    
+    font-weight: bold;
+    color: #24847C;
+    text-transform: uppercase;
+}
+
+.menu li a:hover{   
+    color: #DF878F;    
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;    
+    align-items: center;
+    gap: 25px;         
+}
+
+.banner {
+    width: 100%;
+    height: auto;
+}
+
+.news_container {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    justify-content: space-around;   
+}
+
+.news {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height: 475px;
+    justify-content: space-around;
+    align-items: center;
+    border: #24847C solid 3px;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.news:hover {
+    border: #DF878F solid 3px;
+    box-shadow: 0 0 1em #DF878F;
+}
+
+.news h3 {
+    font-weight: medium;
+    color: #24847C;
+    text-align: center;   
+}
+
+.news img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.news p {
+    font-size: 16px;
+    color: #545454;
+    text-align: justify;
+}
+
+.news a {
+    font-weight: bold;
+    color: #24847C;
+}
+
+.news a:hover {
+    color: #DF878F;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 145px;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #96E2DC;
+    padding: 0 25px 0 25px;
+}
+
+footer img {
+    width: 60px;
+    height: auto;    
+}
+
+footer p {
+    color: #24847C;
+    font-weight: bold;    
+}
+
+@media only screen and (max-width: 768px) {
+
+    .news_container {        
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        gap: 25px;          
+    }
+
+    .news {        
+        width: 80%;
+        height: 475px;    
+    }
+
+}
