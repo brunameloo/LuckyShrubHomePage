@@ -1,8 +1,13 @@
 # Lucky Shrub Home Page
 
-This project is about the design and coding of a Home Page for a fictional firm that is specialized in garden design and creation, maintenance and landscaping. 
+<img src="https://github.com/brunameloo/LuckyShrubHomePage/blob/main/img/lucky%20shrub%20logo.png" width="100px" align="center">
 
-The company also runs a small plant nursery that sells indoor and outdoor plants, making them a one-stop shop for clients to "transform any space into an oasis you can be proud of". 
+This project is about the design and coding of a Home Page for a fictional firm that is specialized in garden design and creation, maintenance and landscaping.
+
+The company also runs a small plant nursery that sells indoor and outdoor plants, making them a one-stop shop for clients to "transform any space into an oasis you can be proud of".
+
+Check this out:
+https://brunameloo.github.io/LuckyShrubHomePage/
 
 ## Habilities and technologies explored and applied
 
