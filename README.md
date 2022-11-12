@@ -19,12 +19,12 @@ https://brunameloo.github.io/LuckyShrubHomePage/
 </div>
 <br>
 <div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/>          
+  <img src="https://github.com/brunameloo/ReadMeIcons/blob/main/color%20palette.png" width="30px"/>          
   Color scheme definition to create a pleasing visual experience for the intended target audience.
 </div>
 <br>
 <div style="display: inline_block">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px"/>          
+  <img src="https://github.com/brunameloo/ReadMeIcons/blob/main/gallery.png" width="30px"/>          
   Effects, banners and images selection to create adequate interaction that is fitting for the client and its customers.
 </div>
 
@@ -41,12 +41,12 @@ https://brunameloo.github.io/LuckyShrubHomePage/
 </div>
 <br>
 <div style="display: inline_block">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>          
+  <img src="https://github.com/brunameloo/ReadMeIcons/blob/main/layout.png" width="30px"/>          
   Layout development using CSS flexbox.
 </div>
 <br>
 <div style="display: inline_block">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30px"/>          
+  <img src="https://github.com/brunameloo/ReadMeIcons/blob/main/responsive%20design.png" width="30px"/>          
   Responsive web design, creating a website that fluidly adapts to differet screen sizes.
 </div>
 
