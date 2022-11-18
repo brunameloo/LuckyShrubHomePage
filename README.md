@@ -9,7 +9,7 @@ The company also runs a small plant nursery that sells indoor and outdoor plants
 Check this out:
 https://brunameloo.github.io/LuckyShrubHomePage/
 
-## Habilities and technologies explored and applied
+## Habilities and Technologies Explored and Applied
 
 ### UX/UI Design
 
@@ -49,8 +49,3 @@ https://brunameloo.github.io/LuckyShrubHomePage/
   <img src="https://github.com/brunameloo/ReadMeIcons/blob/main/responsive%20design.png" width="30px"/>          
   Responsive web design, creating a website that fluidly adapts to differet screen sizes.
 </div>
-
-
-
-
-
